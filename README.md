@@ -1,6 +1,6 @@
 # tarea3
 
-A new Flutter project.
+Tarea 3 aplicaciones moviles otoño 2021
 
 ## Getting Started
 
